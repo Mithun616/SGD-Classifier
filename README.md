@@ -1,6 +1,7 @@
 # SGD-Classifier
 
 ## Developed by: MITHUN KUMAR G
+## DATE: 20-08-2026
 ## RegisterNumber:  212224230160
 ## AIM:
 To write a program to predict the type of species of the Iris flower using the SGD Classifier.
